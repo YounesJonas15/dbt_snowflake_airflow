@@ -1,6 +1,6 @@
 select 
 orders.*,
-order_items_summary.gross_item_sales_amount ,
+order_items_summary.gross_item_sales_amount,
 order_items_summary.item_discounted_amount
 
 from 
